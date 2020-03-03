@@ -1,3 +1,4 @@
+.data
 str: .asciiz "aabcbaa"
 n: .word 0
 
